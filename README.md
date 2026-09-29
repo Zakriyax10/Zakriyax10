@@ -42,7 +42,7 @@
 ### Backend, Database & Storage
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nginx" alt="Node.js, Express.js, MongoDB, Nginx" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express.js, MongoDB" />
 </p>
 
 <p>
@@ -56,7 +56,7 @@
 ### Tools & Workflow
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,docker,jest" alt="Git, GitHub, VS Code, npm, Postman, Docker, Jest" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman" alt="Git, GitHub, Postman" />
 </p>
 
 ## 🎯 What I Focus On
@@ -70,5 +70,6 @@
 
 <div align="center">
   <br />
-  <i>Building useful things with code, one project at a time.</i>
+  <i>> **Building with purpose, solving problems with code, and continuously turning ideas into real-world applications.**
+</i>
 </div>
