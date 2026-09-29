@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Zakriya%20X10&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Zakriya X10 profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Zakriya%20X10&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Zakriyax10 profile header" />
 </div>
 
 <div align="center">
@@ -20,15 +20,19 @@
   </a>
 </p>
 
-## About Me
+## 👨‍💻 About Me
 
-- 💻 Full-stack developer focused on the **MERN stack**
-- 🧩 Interested in building production-ready web applications and REST APIs
-- 🔐 Experienced with authentication, authorization, middleware, and secure backend patterns
-- 📚 Continuously improving my knowledge of system design, testing, and web security
-- 🎯 Goal: deliver reliable software with thoughtful user experiences and clean architecture
+* - Full-stack developer focused on building web applications with the **MERN stack**
+* - Experienced in developing **REST APIs, backend services, and database-driven applications**
+* - Comfortable implementing **authentication, authorization, middleware, JWT, cookies, and secure backend practices**
+* - **Quick learner** who adapts to new technologies, tools, and development environments
+* - Focused on writing **clean, readable, maintainable, and reusable code**
+* - Strong **problem-solving skills** with a practical approach to debugging and finding effective solutions
+* - Interested in building **reliable, scalable, and well-structured applications**
+* - Focused on turning ideas into **functional, user-friendly, and production-ready applications**
 
-## Tech Stack
+
+## 🛠️ Tech Stack
 
 ### Frontend
 
@@ -56,39 +60,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,docker,jest" alt="Git, GitHub, VS Code, npm, Postman, Docker, Jest" />
 </p>
 
-## Featured Projects
-
-### RIHLA — Travel & Food Guide
-
-A mobile travel and food guide designed to help users discover destinations, plan journeys, and explore food experiences.
-
-- Built with **React Native, Expo, Express.js, JavaScript, and MongoDB**
-- Location-based discovery and travel planning features
-- AI-powered travel assistance
-- REST API backend with MongoDB integration
-
-### Resume Builder
-
-A full-stack resume builder that helps users create, manage, and customize professional resumes.
-
-- Built with the **MERN stack**
-- JWT-based user authentication
-- Resume creation and management
-- Multiple resume templates
-- MongoDB data persistence
-- RESTful backend API
-
-## Currently Learning & Improving
-
-- Advanced Node.js and Express.js
-- REST API architecture and backend scalability
-- MongoDB and Mongoose data modeling
-- Authentication and authorization
-- Docker and development workflows
-- Automated testing with Jest
-- Web security best practices
-- System design fundamentals
-
 ## Development Principles
 
 - Write clean, readable, and maintainable code
@@ -97,12 +68,6 @@ A full-stack resume builder that helps users create, manage, and customize profe
 - Prefer practical solutions that can scale with the application
 - Learn continuously and improve through real-world projects
 
-<div align="center">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Zakriyax10&show_icons=true&hide_border=true&theme=transparent&title_color=2563eb&icon_color=2563eb&text_color=64748b" alt="Zakriya's GitHub statistics" />
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zakriyax10&hide_border=true&theme=transparent&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" alt="Zakriya's GitHub streak" />
-</div>
 
 <div align="center">
   <br />
