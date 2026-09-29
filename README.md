@@ -13,7 +13,6 @@
 
 <p align="center">
   <a href="https://github.com/Zakriyax10">
-    <img src="https://img.shields.io/github/followers/Zakriyax10?label=Followers&style=for-the-badge&color=2563eb" alt="GitHub followers" />
   </a>
   <a href="https://github.com/Zakriyax10?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-Explore-0f172a?style=for-the-badge" alt="Explore repositories" />
@@ -60,13 +59,13 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,docker,jest" alt="Git, GitHub, VS Code, npm, Postman, Docker, Jest" />
 </p>
 
-## Development Principles
-
-- Write clean, readable, and maintainable code
-- Build secure and dependable backend systems
-- Keep user experience at the center of product decisions
-- Prefer practical solutions that can scale with the application
-- Learn continuously and improve through real-world projects
+## 🎯 What I Focus On
+- Building full-stack applications
+- Backend development with Node.js & Express.js
+- Designing and consuming REST APIs
+- Database design with MongoDB
+- Writing maintainable JavaScript
+- Solving practical development problems
 
 
 <div align="center">
